@@ -1,0 +1,8 @@
+My Small To Do List
+
+-Find which encoders OpenCV supports for video
+-seperate play video and write video functions
+-Add command line parameters for gaussian blur
+-clean variable naming convention
+-setup ability to process silent batch in dir
+-create and test DCCI algo
